@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ReyanshBatra
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate with big companies
+- 💞️ I’m looking to collaborate with companies
 - 📫 How to reach me, reyanshb12345@gmail.com you can contact me on this email
 
 <!---
